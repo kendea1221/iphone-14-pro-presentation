@@ -1,0 +1,26 @@
+.yoku::before{
+    content: "☆";
+}
+.yoku::after{
+    content: "😀";
+}
+
+.speck::before{
+    content: "＊";
+}
+
+.nedan::before{
+    content: "＊";
+}
+
+.title-table::after{
+    content: ":";
+}
+
+.apple-store-teika-title::after{
+    content: ":";
+}
+
+.kyaria-p::before{
+    content: "↑＊";
+}
